@@ -1,7 +1,6 @@
 # Ex 6c:Abstract Class:Abstract Class Invoice with Method Overriding
 ## AIM
 To write a Python program that creates an abstract class Invoice with an abstract method invoice(), and two child classes that implement this method. Then invoke the methods using an object.
-
 ## ALGORITHM
 1) Start the program.
 2) Import ABC and abstractmethod from the abc module.
