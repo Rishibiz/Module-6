@@ -55,6 +55,5 @@ t.change_gear()
 ```
 ## Output
 <img width="564" height="212" alt="image" src="https://github.com/user-attachments/assets/21775242-6638-4924-9da0-09cb17001a8f" />
-
 ## Result
 Thus, the program successfully demonstrates method overriding where the Car class overrides the methods of the Vehicle class.
