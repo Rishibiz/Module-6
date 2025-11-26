@@ -31,6 +31,5 @@ else:
 ```
 ## Output
 <img width="428" height="129" alt="image" src="https://github.com/user-attachments/assets/eda17b66-e294-4260-9c2a-86604a0d28eb" />
-
 ## Result
 Thus, the Python program successfully overloaded the less-than operator (<) to compare two objects based on their stored values.
