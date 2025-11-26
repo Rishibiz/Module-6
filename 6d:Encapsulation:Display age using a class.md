@@ -1,7 +1,6 @@
 # Ex 6d:Encapsulation:Display age using a class
 ## AIM
 To write a Python program that creates a class with name and age variables and a method to display the age, then invoke it using an object.
-
 ## ALGORITHM
 
 1) Start the program.
