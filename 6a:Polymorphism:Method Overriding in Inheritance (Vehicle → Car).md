@@ -1,5 +1,4 @@
 # Ex 6a:Polymorphism:Method Overriding in Inheritance (Vehicle → Car)
-
 ## AIM
 To write a Python program that demonstrates method overriding by creating a parent class Vehicle and a child class Car that overrides the methods max_speed() and change_gear().
 
