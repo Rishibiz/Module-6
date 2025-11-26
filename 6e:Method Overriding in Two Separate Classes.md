@@ -34,7 +34,6 @@ class Admin:
     def info(self):
         print(f"{self.name} from {self.dept}")
 
-
 e = Employee("Rooney", "Electronics")
 a = Admin("Kalesh", "CS")
 
