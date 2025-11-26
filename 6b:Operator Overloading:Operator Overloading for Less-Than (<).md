@@ -1,5 +1,4 @@
 # Ex 6b:Operator Overloading:Operator Overloading for Less-Than (<)
-
 ## AIM
 To write a Python program that overloads the less-than (<) operator using a class so that objects can be compared based on their values.
 ## ALGORITHM
