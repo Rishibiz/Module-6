@@ -1,5 +1,4 @@
 # Ex 6e:Method Overriding in Two Separate Classes
-
 ## AIM:
 To write a Python program that creates two different classes with the same method name info(), and invokes each method using their respective class objects.
 ## ALGORITHM:
