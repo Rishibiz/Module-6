@@ -46,7 +46,6 @@ bb = Card()
 aa.invoice(6500)
 bb.invoice(2600)
 
-
 ```
 ## Output
 <img width="543" height="212" alt="image" src="https://github.com/user-attachments/assets/3d75ec75-8f47-4aa0-b217-c57843a0d2aa" />
